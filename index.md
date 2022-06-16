@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+This SEO tutorial teaches you a  <a href="https://infodible.in/update">“beat the leader”</a> approach to search engine ranking. It offers  <a href="https://www.seodly.com">SEO</a> tips that have worked for our digital marketing clients. To see what  <a href="https://stabledeal.in">Google</a> or <a href="https://infodible.in">Bing</a> thinks is best for any specific attribute, we look at the sites they are currently rewarding — the top-ranked results. Once you know what structural and content choices worked for the “leaders,” you can do even better by making your pages the “least imperfect”!
+
 You can use the [editor on GitHub](https://github.com/Stabledeal/Stabledeal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
